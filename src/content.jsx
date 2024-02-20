@@ -25,12 +25,3 @@ export const Content = ({
     </div>
   );
 };
-
-Content.propTypes = {
-  section1: PropTypes.string.isRequired,
-  exercises1: PropTypes.number.isRequired,
-  section2: PropTypes.string.isRequired,
-  exercises2: PropTypes.number.isRequired,
-  section3: PropTypes.string.isRequired,
-  exercises3: PropTypes.number.isRequired,
-};
