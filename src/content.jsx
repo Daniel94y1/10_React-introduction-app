@@ -1,5 +1,3 @@
-
-
 export const Content = ({
   section1,
   exercises1,
